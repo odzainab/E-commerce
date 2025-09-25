@@ -24,9 +24,9 @@ This analysis evaluates a company’s sales performance using a large dataset (o
 - Established relationships between the fact table and dimension tables for relational queries using [Data Model](Data-Model-Diagrams.md)
 
  ## Visualizations
-- [Shareholders Dashboard View](Data-Model-Diagrams.md) 
-- [Sales and Operations Dasboard View](Data-Model-Diagrams.md)
-- [Customer Operation, Product and Supply chain Dashboard View](Data-Model-Diagrams.md)
+- [Shareholders Dashboard](Data_Model_and_Visualisation.md#1-shareholder-dashboard-overview)
+- [Sales and Operations Dasboard](Data_Model_and_Visualisation.md#2-sales-and-operations-dashboard)
+- [Customer and Quantity Dashboard](Data_Model_and_Visualisation.md#3-customer--quantity-dashboard)
 
 ## Key Insights
 ### Overall Performance
