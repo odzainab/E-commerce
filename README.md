@@ -70,5 +70,6 @@ The company demonstrates strong international sales and robust top-line performa
 
 ---
 
-For the **full report with dashboards and detailed analysis**, you can read it on [Medium](YOUR_MEDIUM_LINK_HERE).
+For the **full report with dashboards and detailed analysis**, you can read it on [Medium](https://medium.com/@odzainab1/e-commerce-analysis-d21b31e834e2) and for more projects and professional updates, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/odzainab/).
+
 
