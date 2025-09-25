@@ -23,7 +23,7 @@ This analysis evaluates a company’s sales performance using a large dataset (o
 - Developed PivotTables and dashboards for dynamic reporting and stakeholder insights.
 - Established relationships between the fact table and dimension tables for relational queries using [Data Model](Data-Model-Diagrams.md)
  
-
+![Shareholders Dashboard View]()
 ## Visualizations 
 - [Shareholders Dashboard View](Data-Model-Diagrams.md) 
 - [Sales and Operations Dasboard View](Data-Model-Diagrams.md)
