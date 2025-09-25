@@ -21,7 +21,7 @@ This analysis evaluates a company’s sales performance using a large dataset (o
 **Data Modeling:** 
 - Created DAX measures for Total Sales, Total Quantity, Customers, Average Order Value (AOV), Domestic vs. International Sales, and Year-over-Year Growth.  
 - Developed PivotTables and dashboards for dynamic reporting and stakeholder insights.
-- Established relationships between the fact table and dimension tables for relational queries using [Data Model](Data-Model-Diagrams.md#4-data-model)
+- Established relationships between the fact table and dimension tables for relational queries using [Data Model](data%20visualisation%20and%20model.md#4-data-model)
 
  ## Visualizations
 - [Shareholder Dashboard](Data_Model_and_Visualisation.md#1-shareholder-dashboard-overview)
